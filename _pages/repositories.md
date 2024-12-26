@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
+title: Repositories
 description: Here are some projects I've been working on and their repositories! These range from source code for the papers I've authored, to course projects, to other fun stuff I built in my free time. 
 nav: true
 nav_order: 2

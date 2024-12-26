@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Undergraduate Student, Department of Computer Science, Columbia University
 
