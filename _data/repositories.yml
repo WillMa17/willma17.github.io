@@ -1,14 +1,16 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - WillMa17
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - WillMa17/credit_scores
+  - YuxiChen25/TF-MDP
+  - nick-ching23/pineapple
+  - nick-ching23/BotBuster
+  - BUGGYSOFT-Cloud/verification-service
+  - BUGGYSOFT-Cloud/user-service
+  - 6998-Decentrialized-Video/Decentralized-Video-Frontend
+  - 6998-Decentrialized-Video/Decentralized-Video-Backend
+
+
